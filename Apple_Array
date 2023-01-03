@@ -1,0 +1,74 @@
+[
+    {
+        "id": "A0001",
+        "color": "spacegray",
+        "storage": "64GB",
+        "network": "Wi-Fi",
+        "price": 19900,
+        "description": "太空灰 Wi-Fi",
+        "picture": "spacegray.jpg"
+    },
+    {
+        "id": "A0002",
+        "color": "spacegray",
+        "storage": "64GB",
+        "network": "5G",
+        "price": 24900,
+        "description": "太空灰 5G",
+        "picture": "spacegray.jpg"
+    },
+    {
+        "id": "A0003",
+        "color": "spacegray",
+        "storage": "256GB",
+        "network": "Wi-Fi",
+        "price": 24900,
+        "description": "太空灰 Wi-Fi",
+        "picture": "spacegray.jpg"
+    },
+    {
+        "id": "A0004",
+        "color": "spacegray",
+        "storage": "256GB",
+        "network": "5G",
+        "price": 29900,
+        "description": "太空灰 5G",
+        "picture": "spacegray.jpg"
+    },
+    {
+        "id": "A0005",
+        "color": "pink",
+        "storage": "64GB",
+        "network": "Wi-Fi",
+        "price": 19900,
+        "description": "粉紅色 Wi-Fi",
+        "picture": "pink.jpg"
+    },
+    {
+        "id": "A0006",
+        "color": "pink",
+        "storage": "64GB",
+        "network": "5G",
+        "price": 24900,
+        "description": "粉紅色 5G",
+        "picture": "pink.jpg"
+    },
+    {
+        "id": "A0007",
+        "color": "pink",
+        "storage": "256GB",
+        "network": "Wi-Fi",
+        "price": 24900,
+        "description": "粉紅色 Wi-Fi",
+        "picture": "pink.jpg"
+    },
+    {
+        "id": "A0008",
+        "color": "pink",
+        "storage": "256GB",
+        "network": "5G",
+        "price": 29900,
+        "description": "粉紅色 5G",
+        "picture": "pink.jpg"
+    }
+]
